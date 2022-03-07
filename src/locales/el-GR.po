@@ -820,6 +820,10 @@ msgstr "Λήψη της καλύτερης τιμής..."
 msgid "Fetching best price…"
 msgstr "Λήψη της καλύτερης τιμής…"
 
+#: src/components/Header/index.tsx
+msgid "Follow"
+msgstr ""
+
 #: src/lib/components/Swap/Output.tsx
 #: src/pages/Vote/VotePage.tsx
 msgid "For"
@@ -1169,6 +1173,10 @@ msgstr "Οι χρεώσεις δικτύου υπερβαίνουν το 50% τ�
 msgid "New Position"
 msgstr "Νέα Θέση"
 
+#: src/components/FollowItem/index.tsx
+msgid "No Trade Info"
+msgstr ""
+
 #: src/pages/MigrateV2/index.tsx
 msgid "No V2 Liquidity found."
 msgstr "Δεν βρέθηκε ρευστότητα V2."
@@ -1345,6 +1353,10 @@ msgstr "Συγκεντρώθηκε(αν) {0}:"
 #: src/pages/Pool/index.tsx
 msgid "Pools Overview"
 msgstr "Επισκόπηση Δεξαμενών"
+
+#: src/pages/Follow/index.tsx
+msgid "Trending"
+msgstr ""
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Preview"
@@ -2195,6 +2207,10 @@ msgstr "Τυλίξτε <0/> προς {0}"
 msgid "Wrong Network"
 msgstr "Λάθος Δίκτυο"
 
+#: src/pages/Follow/index.tsx
+msgid "You"
+msgstr ""
+
 #: src/pages/CreateProposal/index.tsx
 msgid "You already have an active or pending proposal"
 msgstr "Έχετε ήδη μια ενεργή ή σε εκκρεμότητα πρόταση"
@@ -2271,6 +2287,10 @@ msgstr "Θα λάβετε τουλάχιστον {0} {1} ή η συναλλαγ�
 #: src/lib/components/Swap/Summary/index.tsx
 msgid "You will send at most {0} {1} or the transaction will revert."
 msgstr "Θα στείλετε το πολύ {0} {1} ή η συναλλαγή θα επανέλθει."
+
+#: src/pages/Follow/index.tsx
+msgid "Your Followings"
+msgstr ""
 
 #: src/pages/Pool/v2.tsx
 msgid "Your V2 liquidity"
@@ -2581,4 +2601,3 @@ msgstr "{tokenB} ανά {tokenA}"
 #: src/pages/Pool/PositionPage.tsx
 msgid "← Back to Pools Overview"
 msgstr "← Επιστροφή στην επισκόπηση ψηφοφοριών"
-

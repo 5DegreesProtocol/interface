@@ -820,6 +820,10 @@ msgstr "Добијање најбоље цене..."
 msgid "Fetching best price…"
 msgstr "Дохваћање најбоље цене…"
 
+#: src/components/Header/index.tsx
+msgid "Follow"
+msgstr ""
+
 #: src/lib/components/Swap/Output.tsx
 #: src/pages/Vote/VotePage.tsx
 msgid "For"
@@ -1169,6 +1173,10 @@ msgstr "Мрежне накнаде прелазе 50% износа размен
 msgid "New Position"
 msgstr "Нова позиција"
 
+#: src/components/FollowItem/index.tsx
+msgid "No Trade Info"
+msgstr ""
+
 #: src/pages/MigrateV2/index.tsx
 msgid "No V2 Liquidity found."
 msgstr "Није пронађена ликвидност V2."
@@ -1345,6 +1353,10 @@ msgstr "Сакупљено {0}:"
 #: src/pages/Pool/index.tsx
 msgid "Pools Overview"
 msgstr "Преглед фондова"
+
+#: src/pages/Follow/index.tsx
+msgid "Trending"
+msgstr ""
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Preview"
@@ -2195,6 +2207,10 @@ msgstr "Замотајте <0/> до {0}"
 msgid "Wrong Network"
 msgstr "Погрешна мрежа"
 
+#: src/pages/Follow/index.tsx
+msgid "You"
+msgstr ""
+
 #: src/pages/CreateProposal/index.tsx
 msgid "You already have an active or pending proposal"
 msgstr "Већ имате активан или на чекању предлог"
@@ -2271,6 +2287,10 @@ msgstr "Добићете најмање {0} {1} или ће се трансак�
 #: src/lib/components/Swap/Summary/index.tsx
 msgid "You will send at most {0} {1} or the transaction will revert."
 msgstr "Послаћете највише {0} {1} или ће се трансакција вратити."
+
+#: src/pages/Follow/index.tsx
+msgid "Your Followings"
+msgstr ""
 
 #: src/pages/Pool/v2.tsx
 msgid "Your V2 liquidity"
@@ -2581,4 +2601,3 @@ msgstr "{tokenB} по {tokenA}"
 #: src/pages/Pool/PositionPage.tsx
 msgid "← Back to Pools Overview"
 msgstr "← Повратак на Преглед фондова"
-

@@ -820,6 +820,10 @@ msgstr "最高の価格を取得しています..."
 msgid "Fetching best price…"
 msgstr "最安値を取得…"
 
+#: src/components/Header/index.tsx
+msgid "Follow"
+msgstr ""
+
 #: src/lib/components/Swap/Output.tsx
 #: src/pages/Vote/VotePage.tsx
 msgid "For"
@@ -1169,6 +1173,10 @@ msgstr "ネットワーク料金がスワップ金額の50％を超えていま�
 msgid "New Position"
 msgstr "新しいポジション"
 
+#: src/components/FollowItem/index.tsx
+msgid "No Trade Info"
+msgstr ""
+
 #: src/pages/MigrateV2/index.tsx
 msgid "No V2 Liquidity found."
 msgstr "V2の流動性が見つかりません。"
@@ -1345,6 +1353,10 @@ msgstr "プールしている {0}:"
 #: src/pages/Pool/index.tsx
 msgid "Pools Overview"
 msgstr "プールの概要"
+
+#: src/pages/Follow/index.tsx
+msgid "Trending"
+msgstr ""
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Preview"
@@ -2195,6 +2207,10 @@ msgstr "<0/> から {0}ラップ"
 msgid "Wrong Network"
 msgstr "ネットワークが間違っています"
 
+#: src/pages/Follow/index.tsx
+msgid "You"
+msgstr ""
+
 #: src/pages/CreateProposal/index.tsx
 msgid "You already have an active or pending proposal"
 msgstr "すでにアクティブまたは保留中の提案があります"
@@ -2271,6 +2287,10 @@ msgstr "あなたは、少なくとも受信します {0} {1} またはトラン
 #: src/lib/components/Swap/Summary/index.tsx
 msgid "You will send at most {0} {1} or the transaction will revert."
 msgstr "あなたは、最大でお送りします {0} {1} またはトランザクションが戻ります。"
+
+#: src/pages/Follow/index.tsx
+msgid "Your Followings"
+msgstr ""
 
 #: src/pages/Pool/v2.tsx
 msgid "Your V2 liquidity"
@@ -2581,4 +2601,3 @@ msgstr "{tokenB} / {tokenA}"
 #: src/pages/Pool/PositionPage.tsx
 msgid "← Back to Pools Overview"
 msgstr "プール概要に戻る"
-

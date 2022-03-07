@@ -820,6 +820,10 @@ msgstr "Получение лучшей цены..."
 msgid "Fetching best price…"
 msgstr "Получение лучшей цены…"
 
+#: src/components/Header/index.tsx
+msgid "Follow"
+msgstr ""
+
 #: src/lib/components/Swap/Output.tsx
 #: src/pages/Vote/VotePage.tsx
 msgid "For"
@@ -1169,6 +1173,10 @@ msgstr "Комиссия сети превышает 50% от суммы обм�
 msgid "New Position"
 msgstr "Новая позиция"
 
+#: src/components/FollowItem/index.tsx
+msgid "No Trade Info"
+msgstr ""
+
 #: src/pages/MigrateV2/index.tsx
 msgid "No V2 Liquidity found."
 msgstr "Ликвидность в V2 не обнаружена."
@@ -1345,6 +1353,10 @@ msgstr "{0} в пуле:"
 #: src/pages/Pool/index.tsx
 msgid "Pools Overview"
 msgstr "Обзор пулов"
+
+#: src/pages/Follow/index.tsx
+msgid "Trending"
+msgstr ""
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Preview"
@@ -2195,6 +2207,10 @@ msgstr "Завернуть <0/> в {0}"
 msgid "Wrong Network"
 msgstr "Неверная сеть"
 
+#: src/pages/Follow/index.tsx
+msgid "You"
+msgstr ""
+
 #: src/pages/CreateProposal/index.tsx
 msgid "You already have an active or pending proposal"
 msgstr "У вас уже есть активное или ожидающее рассмотрения предложение"
@@ -2271,6 +2287,10 @@ msgstr "Вы получите как минимум {0} {1} иначе тран�
 #: src/lib/components/Swap/Summary/index.tsx
 msgid "You will send at most {0} {1} or the transaction will revert."
 msgstr "Вы отправите не более {0} {1} иначе транзакция будет отменена."
+
+#: src/pages/Follow/index.tsx
+msgid "Your Followings"
+msgstr ""
 
 #: src/pages/Pool/v2.tsx
 msgid "Your V2 liquidity"
@@ -2581,4 +2601,3 @@ msgstr "{tokenB} за {tokenA}"
 #: src/pages/Pool/PositionPage.tsx
 msgid "← Back to Pools Overview"
 msgstr "← Назад к пулам"
-

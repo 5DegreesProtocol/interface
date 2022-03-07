@@ -790,7 +790,8 @@ msgstr "Szakértői mód"
 
 #: src/components/Settings/index.tsx
 msgid "Expert mode turns off the confirm transaction prompt and allows high slippage trades that often result in bad rates and lost funds."
-msgstr "A szakértői mód kikapcsolja a tranzakció megerősítését, és lehetővé teszi a nagy csúszásmentes kereskedéseket, amelyek gyakran rossz arányokat és elvesztett forrásokat eredményeznek.\n"
+msgstr ""
+"A szakértői mód kikapcsolja a tranzakció megerősítését, és lehetővé teszi a nagy csúszásmentes kereskedéseket, amelyek gyakran rossz arányokat és elvesztett forrásokat eredményeznek.\n"
 "A szakértői mód kikapcsolja a tranzakció megerősítésére vonatkozó felszólítást, és lehetővé tesz nagy csúszású kereskedést, amely gyakran rossz árfolyamokat és elveszett pénzeszközöket eredményez."
 
 #: src/pages/Vote/styled.tsx
@@ -820,6 +821,10 @@ msgstr "A legjobb ár lekérése..."
 #: src/lib/components/Swap/Toolbar.tsx
 msgid "Fetching best price…"
 msgstr "A legjobb ár lekérése…"
+
+#: src/components/Header/index.tsx
+msgid "Follow"
+msgstr ""
 
 #: src/lib/components/Swap/Output.tsx
 #: src/pages/Vote/VotePage.tsx
@@ -1170,6 +1175,10 @@ msgstr "A hálózati díjak meghaladják a swap összegének 50%-át!"
 msgid "New Position"
 msgstr "Új pozíció"
 
+#: src/components/FollowItem/index.tsx
+msgid "No Trade Info"
+msgstr ""
+
 #: src/pages/MigrateV2/index.tsx
 msgid "No V2 Liquidity found."
 msgstr "V2 likviditás nem található."
@@ -1346,6 +1355,10 @@ msgstr "Összevonva {0}:"
 #: src/pages/Pool/index.tsx
 msgid "Pools Overview"
 msgstr "Poolok áttekintése"
+
+#: src/pages/Follow/index.tsx
+msgid "Trending"
+msgstr ""
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Preview"
@@ -2196,6 +2209,10 @@ msgstr "Tekerje <0/> tól {0}"
 msgid "Wrong Network"
 msgstr "Rossz hálózat"
 
+#: src/pages/Follow/index.tsx
+msgid "You"
+msgstr ""
+
 #: src/pages/CreateProposal/index.tsx
 msgid "You already have an active or pending proposal"
 msgstr "Már van aktív vagy függőben lévő javaslata"
@@ -2272,6 +2289,10 @@ msgstr "{0} {1} fog kapni, különben a tranzakció visszaáll."
 #: src/lib/components/Swap/Summary/index.tsx
 msgid "You will send at most {0} {1} or the transaction will revert."
 msgstr "{0} {1} küld, vagy a tranzakció visszaáll."
+
+#: src/pages/Follow/index.tsx
+msgid "Your Followings"
+msgstr ""
 
 #: src/pages/Pool/v2.tsx
 msgid "Your V2 liquidity"
@@ -2497,7 +2518,8 @@ msgstr "{0} token"
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 #: src/pages/MigrateV2/MigrateV2Pair.tsx
 msgid "{0} {1} Price:"
-msgstr "{0} {1} á\n"
+msgstr ""
+"{0} {1} á\n"
 "r:"
 
 #: src/components/Header/index.tsx
@@ -2583,4 +2605,3 @@ msgstr "{tokenB} per {tokenA}"
 #: src/pages/Pool/PositionPage.tsx
 msgid "← Back to Pools Overview"
 msgstr "← Vissza a poolok áttekintéséhez"
-

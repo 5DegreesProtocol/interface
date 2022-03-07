@@ -278,6 +278,9 @@ export default function Header() {
         </UniIcon>
       </Title>
       <HeaderLinks>
+        <StyledNavLink id={`swap-nav-link`} to={'/follow'}>
+          <Trans>Follow</Trans>
+        </StyledNavLink>
         <StyledNavLink id={`swap-nav-link`} to={'/swap'}>
           <Trans>Swap</Trans>
         </StyledNavLink>

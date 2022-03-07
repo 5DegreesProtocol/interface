@@ -820,6 +820,10 @@ msgstr "משיג את המחיר הטוב ביותר..."
 msgid "Fetching best price…"
 msgstr "משיג את המחיר הטוב ביותר…"
 
+#: src/components/Header/index.tsx
+msgid "Follow"
+msgstr ""
+
 #: src/lib/components/Swap/Output.tsx
 #: src/pages/Vote/VotePage.tsx
 msgid "For"
@@ -1169,6 +1173,10 @@ msgstr "עמלות הרשת עולות על 50% מסכום ההחלפה!"
 msgid "New Position"
 msgstr "עמדה חדשה"
 
+#: src/components/FollowItem/index.tsx
+msgid "No Trade Info"
+msgstr ""
+
 #: src/pages/MigrateV2/index.tsx
 msgid "No V2 Liquidity found."
 msgstr "לא נמצאה נזילות V2."
@@ -1345,6 +1353,10 @@ msgstr "מאוגד {0}:"
 #: src/pages/Pool/index.tsx
 msgid "Pools Overview"
 msgstr "סקירת מאגרים"
+
+#: src/pages/Follow/index.tsx
+msgid "Trending"
+msgstr ""
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Preview"
@@ -2195,6 +2207,10 @@ msgstr "עטוף <0/> ל {0}"
 msgid "Wrong Network"
 msgstr "רשת לא נכונה"
 
+#: src/pages/Follow/index.tsx
+msgid "You"
+msgstr ""
+
 #: src/pages/CreateProposal/index.tsx
 msgid "You already have an active or pending proposal"
 msgstr "כבר יש לך הצעה פעילה או ממתינה"
@@ -2271,6 +2287,10 @@ msgstr "תקבל לפחות {0} {1} או שהעסקה תחזור."
 #: src/lib/components/Swap/Summary/index.tsx
 msgid "You will send at most {0} {1} or the transaction will revert."
 msgstr "אתה תשלח לכל היותר {0} {1} או שהעסקה תחזור."
+
+#: src/pages/Follow/index.tsx
+msgid "Your Followings"
+msgstr ""
 
 #: src/pages/Pool/v2.tsx
 msgid "Your V2 liquidity"
@@ -2581,4 +2601,3 @@ msgstr "{tokenB} לכל {tokenA}"
 #: src/pages/Pool/PositionPage.tsx
 msgid "← Back to Pools Overview"
 msgstr "← חזרה לסקירת מאגרים"
-

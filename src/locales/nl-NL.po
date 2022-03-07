@@ -820,6 +820,10 @@ msgstr "Beste prijs ophalen..."
 msgid "Fetching best price…"
 msgstr "Beste prijs ophalen…"
 
+#: src/components/Header/index.tsx
+msgid "Follow"
+msgstr ""
+
 #: src/lib/components/Swap/Output.tsx
 #: src/pages/Vote/VotePage.tsx
 msgid "For"
@@ -1169,6 +1173,10 @@ msgstr "De netwerkkosten bedragen meer dan 50% van het swapbedrag!"
 msgid "New Position"
 msgstr "Nieuwe positie"
 
+#: src/components/FollowItem/index.tsx
+msgid "No Trade Info"
+msgstr ""
+
 #: src/pages/MigrateV2/index.tsx
 msgid "No V2 Liquidity found."
 msgstr "Geen V2-liquiditeit gevonden."
@@ -1345,6 +1353,10 @@ msgstr "Gepoold {0}:"
 #: src/pages/Pool/index.tsx
 msgid "Pools Overview"
 msgstr "Pools overzicht"
+
+#: src/pages/Follow/index.tsx
+msgid "Trending"
+msgstr ""
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Preview"
@@ -2195,6 +2207,10 @@ msgstr "Wikkel <0/> tot {0}"
 msgid "Wrong Network"
 msgstr "Verkeerd netwerk"
 
+#: src/pages/Follow/index.tsx
+msgid "You"
+msgstr ""
+
 #: src/pages/CreateProposal/index.tsx
 msgid "You already have an active or pending proposal"
 msgstr "U heeft al een actief of in behandeling zijnd voorstel"
@@ -2271,6 +2287,10 @@ msgstr "U ontvangt minimaal {0} {1} of de transactie wordt teruggedraaid."
 #: src/lib/components/Swap/Summary/index.tsx
 msgid "You will send at most {0} {1} or the transaction will revert."
 msgstr "U stuurt maximaal {0} {1} of de transactie wordt teruggedraaid."
+
+#: src/pages/Follow/index.tsx
+msgid "Your Followings"
+msgstr ""
 
 #: src/pages/Pool/v2.tsx
 msgid "Your V2 liquidity"
@@ -2581,4 +2601,3 @@ msgstr "{tokenB} per {tokenA}"
 #: src/pages/Pool/PositionPage.tsx
 msgid "← Back to Pools Overview"
 msgstr "← Terug naar poolsoverzicht"
-

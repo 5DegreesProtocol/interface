@@ -820,6 +820,10 @@ msgstr "Pobieranie najlepszej ceny..."
 msgid "Fetching best price…"
 msgstr "Pobieranie najlepszej ceny…"
 
+#: src/components/Header/index.tsx
+msgid "Follow"
+msgstr ""
+
 #: src/lib/components/Swap/Output.tsx
 #: src/pages/Vote/VotePage.tsx
 msgid "For"
@@ -1169,6 +1173,10 @@ msgstr "Opłaty sieciowe przekraczają 50% kwoty swapu!"
 msgid "New Position"
 msgstr "Nowa pozycja"
 
+#: src/components/FollowItem/index.tsx
+msgid "No Trade Info"
+msgstr ""
+
 #: src/pages/MigrateV2/index.tsx
 msgid "No V2 Liquidity found."
 msgstr "Nie znaleziono płynności V2."
@@ -1345,6 +1353,10 @@ msgstr "Połączone {0}:"
 #: src/pages/Pool/index.tsx
 msgid "Pools Overview"
 msgstr "Przegląd puli"
+
+#: src/pages/Follow/index.tsx
+msgid "Trending"
+msgstr ""
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Preview"
@@ -2195,6 +2207,10 @@ msgstr "Zawijaj od <0/> do {0}"
 msgid "Wrong Network"
 msgstr "Nieprawidłowa sieć"
 
+#: src/pages/Follow/index.tsx
+msgid "You"
+msgstr ""
+
 #: src/pages/CreateProposal/index.tsx
 msgid "You already have an active or pending proposal"
 msgstr "Masz już aktywną lub oczekującą propozycję"
@@ -2271,6 +2287,10 @@ msgstr "Otrzymasz co najmniej {0} {1} lub transakcja zostanie cofnięta."
 #: src/lib/components/Swap/Summary/index.tsx
 msgid "You will send at most {0} {1} or the transaction will revert."
 msgstr "Wyślesz maksymalnie {0} {1} lub transakcja zostanie cofnięta."
+
+#: src/pages/Follow/index.tsx
+msgid "Your Followings"
+msgstr ""
 
 #: src/pages/Pool/v2.tsx
 msgid "Your V2 liquidity"
@@ -2581,4 +2601,3 @@ msgstr "{tokenB} za {tokenA}"
 #: src/pages/Pool/PositionPage.tsx
 msgid "← Back to Pools Overview"
 msgstr "◆ Powrót do podsumowania pul"
-

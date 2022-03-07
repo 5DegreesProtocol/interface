@@ -820,6 +820,10 @@ msgstr "최저가를 가져오는 중..."
 msgid "Fetching best price…"
 msgstr "가장 좋은 가격을 가져오는 중…"
 
+#: src/components/Header/index.tsx
+msgid "Follow"
+msgstr ""
+
 #: src/lib/components/Swap/Output.tsx
 #: src/pages/Vote/VotePage.tsx
 msgid "For"
@@ -1169,6 +1173,10 @@ msgstr "네트워크 수수료가 스왑 금액의 50%를 초과합니다!"
 msgid "New Position"
 msgstr "새로운 위치"
 
+#: src/components/FollowItem/index.tsx
+msgid "No Trade Info"
+msgstr ""
+
 #: src/pages/MigrateV2/index.tsx
 msgid "No V2 Liquidity found."
 msgstr "V2 유동성이 없습니다."
@@ -1345,6 +1353,10 @@ msgstr "{0} 풀링 됨:"
 #: src/pages/Pool/index.tsx
 msgid "Pools Overview"
 msgstr "풀 개요"
+
+#: src/pages/Follow/index.tsx
+msgid "Trending"
+msgstr ""
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Preview"
@@ -2195,6 +2207,10 @@ msgstr "<0/> 에서 {0}바꿈"
 msgid "Wrong Network"
 msgstr "잘못된 네트워크"
 
+#: src/pages/Follow/index.tsx
+msgid "You"
+msgstr ""
+
 #: src/pages/CreateProposal/index.tsx
 msgid "You already have an active or pending proposal"
 msgstr "이미 활성 또는 보류중인 제안이 있습니다."
@@ -2271,6 +2287,10 @@ msgstr "당신은 적어도 {0} {1} 을 받게 될 것입니다. 그렇지 않�
 #: src/lib/components/Swap/Summary/index.tsx
 msgid "You will send at most {0} {1} or the transaction will revert."
 msgstr "{0} {1} 을 보내지 않으면 거래가 취소됩니다."
+
+#: src/pages/Follow/index.tsx
+msgid "Your Followings"
+msgstr ""
 
 #: src/pages/Pool/v2.tsx
 msgid "Your V2 liquidity"
@@ -2581,4 +2601,3 @@ msgstr "{tokenB} / {tokenA}"
 #: src/pages/Pool/PositionPage.tsx
 msgid "← Back to Pools Overview"
 msgstr "← 풀 개요로 돌아 가기"
-

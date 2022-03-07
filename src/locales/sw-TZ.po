@@ -820,6 +820,10 @@ msgstr "Inaleta bei nzuri..."
 msgid "Fetching best price…"
 msgstr "Inaleta bei nzuri…"
 
+#: src/components/Header/index.tsx
+msgid "Follow"
+msgstr ""
+
 #: src/lib/components/Swap/Output.tsx
 #: src/pages/Vote/VotePage.tsx
 msgid "For"
@@ -1169,6 +1173,10 @@ msgstr "Ada za mtandao zinazidi 50% ya kiasi cha ubadilishaji!"
 msgid "New Position"
 msgstr "Nafasi mpya"
 
+#: src/components/FollowItem/index.tsx
+msgid "No Trade Info"
+msgstr ""
+
 #: src/pages/MigrateV2/index.tsx
 msgid "No V2 Liquidity found."
 msgstr "Hakuna V2 Liquidity iliyopatikana."
@@ -1345,6 +1353,10 @@ msgstr "Iliyounganishwa {0}:"
 #: src/pages/Pool/index.tsx
 msgid "Pools Overview"
 msgstr "Muhtasari wa Mabwawa"
+
+#: src/pages/Follow/index.tsx
+msgid "Trending"
+msgstr ""
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Preview"
@@ -2195,6 +2207,10 @@ msgstr "Funga <0/> hadi {0}"
 msgid "Wrong Network"
 msgstr "Mtandao Mbaya"
 
+#: src/pages/Follow/index.tsx
+msgid "You"
+msgstr ""
+
 #: src/pages/CreateProposal/index.tsx
 msgid "You already have an active or pending proposal"
 msgstr "Tayari una pendekezo linalotumika au linalosubiri"
@@ -2271,6 +2287,10 @@ msgstr "Utapokea angalau {0} {1} au muamala utarejeshwa."
 #: src/lib/components/Swap/Summary/index.tsx
 msgid "You will send at most {0} {1} or the transaction will revert."
 msgstr "Utatuma angalau {0} {1} au muamala utarejeshwa."
+
+#: src/pages/Follow/index.tsx
+msgid "Your Followings"
+msgstr ""
 
 #: src/pages/Pool/v2.tsx
 msgid "Your V2 liquidity"
@@ -2581,4 +2601,3 @@ msgstr "{tokenB} kwa {tokenA}"
 #: src/pages/Pool/PositionPage.tsx
 msgid "← Back to Pools Overview"
 msgstr "Rudi kwa Muhtasari wa Mabwawa"
-

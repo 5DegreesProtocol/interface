@@ -820,6 +820,10 @@ msgstr "Đang tìm nạp giá tốt nhất ..."
 msgid "Fetching best price…"
 msgstr "Tìm nạp giá tốt nhất…"
 
+#: src/components/Header/index.tsx
+msgid "Follow"
+msgstr ""
+
 #: src/lib/components/Swap/Output.tsx
 #: src/pages/Vote/VotePage.tsx
 msgid "For"
@@ -1169,6 +1173,10 @@ msgstr "Phí mạng vượt quá 50% số tiền hoán đổi!"
 msgid "New Position"
 msgstr "Vị trí mới"
 
+#: src/components/FollowItem/index.tsx
+msgid "No Trade Info"
+msgstr ""
+
 #: src/pages/MigrateV2/index.tsx
 msgid "No V2 Liquidity found."
 msgstr "Không tìm thấy Thanh khoản V2."
@@ -1345,6 +1353,10 @@ msgstr "Pool {0}:"
 #: src/pages/Pool/index.tsx
 msgid "Pools Overview"
 msgstr "Tổng quan về pool"
+
+#: src/pages/Follow/index.tsx
+msgid "Trending"
+msgstr ""
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Preview"
@@ -2195,6 +2207,10 @@ msgstr "Kết thúc từ <0/> đến {0}"
 msgid "Wrong Network"
 msgstr "Mạng sai"
 
+#: src/pages/Follow/index.tsx
+msgid "You"
+msgstr ""
+
 #: src/pages/CreateProposal/index.tsx
 msgid "You already have an active or pending proposal"
 msgstr "Bạn đã có một đề xuất đang hoạt động hoặc đang chờ xử lý"
@@ -2271,6 +2287,10 @@ msgstr "Bạn sẽ nhận được ít nhất {0} {1} hoặc giao dịch sẽ ho
 #: src/lib/components/Swap/Summary/index.tsx
 msgid "You will send at most {0} {1} or the transaction will revert."
 msgstr "Bạn sẽ gửi nhiều nhất là {0} {1} hoặc giao dịch sẽ hoàn nguyên."
+
+#: src/pages/Follow/index.tsx
+msgid "Your Followings"
+msgstr ""
 
 #: src/pages/Pool/v2.tsx
 msgid "Your V2 liquidity"
@@ -2581,4 +2601,3 @@ msgstr "{tokenB} trên {tokenA}"
 #: src/pages/Pool/PositionPage.tsx
 msgid "← Back to Pools Overview"
 msgstr "← Quay lại Tổng quan về pool"
-

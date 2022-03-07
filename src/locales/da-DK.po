@@ -820,6 +820,10 @@ msgstr "Får den bedste pris..."
 msgid "Fetching best price…"
 msgstr "Bedste pris…"
 
+#: src/components/Header/index.tsx
+msgid "Follow"
+msgstr ""
+
 #: src/lib/components/Swap/Output.tsx
 #: src/pages/Vote/VotePage.tsx
 msgid "For"
@@ -1169,6 +1173,10 @@ msgstr "Netværksgebyrer overstiger 50 % af byttebeløbet!"
 msgid "New Position"
 msgstr "Ny position"
 
+#: src/components/FollowItem/index.tsx
+msgid "No Trade Info"
+msgstr ""
+
 #: src/pages/MigrateV2/index.tsx
 msgid "No V2 Liquidity found."
 msgstr "Ingen V2-likviditet fundet."
@@ -1345,6 +1353,10 @@ msgstr "Pulje {0}:"
 #: src/pages/Pool/index.tsx
 msgid "Pools Overview"
 msgstr "Puljeoversigt"
+
+#: src/pages/Follow/index.tsx
+msgid "Trending"
+msgstr ""
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Preview"
@@ -2195,6 +2207,10 @@ msgstr "Ombryd <0/> til {0}"
 msgid "Wrong Network"
 msgstr "Forkert netværk"
 
+#: src/pages/Follow/index.tsx
+msgid "You"
+msgstr ""
+
 #: src/pages/CreateProposal/index.tsx
 msgid "You already have an active or pending proposal"
 msgstr "Du har allerede et aktivt eller afventende forslag"
@@ -2271,6 +2287,10 @@ msgstr "Du modtager mindst {0} {1} ellers vil transaktionen vende tilbage."
 #: src/lib/components/Swap/Summary/index.tsx
 msgid "You will send at most {0} {1} or the transaction will revert."
 msgstr "Du sender højst {0} {1} ellers vil transaktionen vende tilbage."
+
+#: src/pages/Follow/index.tsx
+msgid "Your Followings"
+msgstr ""
 
 #: src/pages/Pool/v2.tsx
 msgid "Your V2 liquidity"
@@ -2581,4 +2601,3 @@ msgstr "{tokenB} pr. {tokenA}"
 #: src/pages/Pool/PositionPage.tsx
 msgid "← Back to Pools Overview"
 msgstr "← Tilbage til puljeoversigt"
-

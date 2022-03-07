@@ -820,6 +820,10 @@ msgstr "En iyi fiyat alınıyor..."
 msgid "Fetching best price…"
 msgstr "En iyi fiyat getiriliyor…"
 
+#: src/components/Header/index.tsx
+msgid "Follow"
+msgstr ""
+
 #: src/lib/components/Swap/Output.tsx
 #: src/pages/Vote/VotePage.tsx
 msgid "For"
@@ -1169,6 +1173,10 @@ msgstr "Ağ ücretleri takas tutarının %50'sini aşıyor!"
 msgid "New Position"
 msgstr "Yeni Pozisyon"
 
+#: src/components/FollowItem/index.tsx
+msgid "No Trade Info"
+msgstr ""
+
 #: src/pages/MigrateV2/index.tsx
 msgid "No V2 Liquidity found."
 msgstr "V2 Likiditesi bulunamadı."
@@ -1345,6 +1353,10 @@ msgstr "Havuza alınmış {0}:"
 #: src/pages/Pool/index.tsx
 msgid "Pools Overview"
 msgstr "Havuzlara Genel Bakış"
+
+#: src/pages/Follow/index.tsx
+msgid "Trending"
+msgstr ""
 
 #: src/pages/AddLiquidity/index.tsx
 msgid "Preview"
@@ -2195,6 +2207,10 @@ msgstr "<0/> {0}kaydır"
 msgid "Wrong Network"
 msgstr "Yanlış Ağ"
 
+#: src/pages/Follow/index.tsx
+msgid "You"
+msgstr ""
+
 #: src/pages/CreateProposal/index.tsx
 msgid "You already have an active or pending proposal"
 msgstr "Zaten etkin veya bekleyen bir teklifiniz var"
@@ -2271,6 +2287,10 @@ msgstr "En az {0} {1} alacaksınız veya işlem geri dönecek."
 #: src/lib/components/Swap/Summary/index.tsx
 msgid "You will send at most {0} {1} or the transaction will revert."
 msgstr "En fazla {0} {1} gönderirsiniz yoksa işlem geri döner."
+
+#: src/pages/Follow/index.tsx
+msgid "Your Followings"
+msgstr ""
 
 #: src/pages/Pool/v2.tsx
 msgid "Your V2 liquidity"
@@ -2581,4 +2601,3 @@ msgstr "{tokenB} / {tokenA}"
 #: src/pages/Pool/PositionPage.tsx
 msgid "← Back to Pools Overview"
 msgstr "← Havuzlara Genel Bakış'a geri dön"
-
